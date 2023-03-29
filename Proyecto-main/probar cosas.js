@@ -17,3 +17,5 @@ function scrollToNextSection() {
   var nextSection = document.getElementById('section2');
   nextSection.scrollIntoView({behavior: "smooth", block: "start", inline: "nearest"});
 }
+
+
